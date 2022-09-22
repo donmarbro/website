@@ -1,0 +1,99 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+   font-family: 'Montserrat-Black', sans-serif;
+   font-weight: 900;
+   font-size: 3rem;
+   line-height: 150%;
+   color: #fff;
+ }
+ .container-fluid {
+   padding: 3% 15%;
+ }
+.links {
+  padding-left: 350px;
+}
+.cat-img {
+  transform: rotate(20deg);
+}
+#title {
+  background-color: #fff;
+}
+.titletext {
+  margin-top: 50px;
+  font-weight: 700;
+  font-size: 2rem;
+}
+.container-two-text {
+  font-weight: 700;
+  font-size: 1.5rem;
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  padding-top: 95px;
+}
+.donut-image{
+  width: 400px;
+}
+.container-two-paragraph {
+  width: 90%;
+  padding-top: 50px;
+  color: grey;
+  text-align: center;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+.container-two-bottom {
+  padding-top: 100px;
+  font-weight: 700;
+  font-size: 1.5rem;
+  width: 500px;
+}
+.bottom-container-two {
+  margin: 70px auto 70px auto;
+  text-align: left;
+}
+.worm-image {
+  padding-top: 50px;
+  float: left;
+  width: 360px;
+  margin-right: 30px;
+}
+.bottom-container {
+  text-align: center;
+}
+.container-two-paragraph {
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-bottom: 6rem;
+}
+.fa-brands {
+  color: pink;
+  width: 30px;
+}
+.copyright {
+  margin-top: 10px;
+  font-size: 70%;
+  color: grey;
+}
+.fa-brands:hover {
+  color: red;
+}
+.navbar-brand:hover {
+  color: grey;
+}
+#bottom {
+  background-color: #FFDBA4;
+}
+#container-two {
+  background-color: #FFDBA4;
+}
+.carousel-button {
+  color: pink;
+}
